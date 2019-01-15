@@ -15,3 +15,4 @@ COPY docker-entrypoint.sh /
 EXPOSE 80 443 1883 8883 1988
 
 ENTRYPOINT ["/docker-entrypoint.sh"]
+
