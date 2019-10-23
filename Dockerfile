@@ -1,4 +1,4 @@
-FROM haproxy:1.9.5
+FROM haproxy:2.0.5
 
 # Install rsyslog
 RUN apt-get update && \
