@@ -1,0 +1,9 @@
+HTTP/1.1 504 Gateway Time-out
+Cache-Control: no-cache
+Connection: close
+Content-Type: application/json
+
+{
+    "code": 504,
+    "message": "Gateway Time-out"
+}
